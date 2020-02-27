@@ -94,7 +94,7 @@ heterogeneous: 이질적
 homogeneous: 등질적
 identifier: 식별자
 idiom: 이디엄
-Identity Provider : 신원공급자
+Identity Provider : 신원 공급자
 imaginary unit: 허수 단위
 implicit: 묵시적
 indent: 들여쓰기
