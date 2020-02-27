@@ -158,6 +158,7 @@ retention: 보존
 resume: 재개
 reverse iteration: 역 이터레이션
 section: 섹션
+sequence: 시퀀스
 serializing: 직렬화
 set: 집합
 shallow copy: 얕은 사본
