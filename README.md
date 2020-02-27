@@ -92,6 +92,7 @@ formatted string literal: 포맷 문자열 리터럴
 frozenset: 불변 집합
 fully qualified name: 완전히 정규화된 이름
 glossary: 용어집
+guest: 
 hashability: 해시 가능성
 heterogeneous: 이질적
 homogeneous: 등질적
