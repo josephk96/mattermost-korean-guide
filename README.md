@@ -108,6 +108,7 @@ interactive: 대화형
 interpreter: 인터프리터
 interrupt: 인터럽트
 introspection: 인트로스펙션
+Invalid: 유효하지 않은
 iteration: 이터레이션
 keyword argument: 키워드 인자
 lexicographical: 사전식
@@ -180,6 +181,7 @@ thread: 스레드
 token: 토큰
 truth value: 논리값
 tutorial: 자습서
+trigger: 트리거
 underlying resource: 하부 자원
 virtual subclass: 가상 서브 클래스
 wildcard: 와일드카드
