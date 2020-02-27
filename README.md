@@ -12,6 +12,7 @@ Mattermost의 한국어 번역에 기여하시려면 http://translate.mattermost
 
 ```
 access: 액세스
+admin: 
 algorithm: 알고리즘
 alias: 에일리어스
 angle brackets: 화살괄호
