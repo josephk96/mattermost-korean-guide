@@ -188,6 +188,7 @@ subroutine: 서브루틴
 subscript notation: 서브 스크립트 표기법
 superclass: 슈퍼 클래스
 suspend: 일시 중지
+switch (change): 변경
 symlink: 심볼릭 링크
 syntactic sugar: 편의 문법
 syntax error: 문법 에러
