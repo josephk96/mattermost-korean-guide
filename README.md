@@ -138,6 +138,7 @@ parallelism: 병렬성
 parentheses: 괄호
 parse tree: 파스 트리
 parser: 파서
+Parsing: 
 phase: 시기
 positional argument: 위치 인자
 procedure: 프로시저
