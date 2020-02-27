@@ -58,6 +58,7 @@ curly braces: 중괄호
 custom: 커스텀
 data structure: 자료 구조
 decimal: 십진 소수 # decimal 모듈과 관련될 때
+decode: 
 dedent: 내어쓰기
 deep copy: 깊은 사본
 default: 기본
@@ -121,6 +122,7 @@ loop: 루프
 machine code: 기계어
 magic method: 매직 메서드
 mechanism: 메커니즘
+metadata: 메타데이터
 machinery: 절차
 Mattermost: Mattermost
 mode: 모드
@@ -180,5 +182,4 @@ underlying resource: 하부 자원
 virtual subclass: 가상 서브 클래스
 wildcard: 와일드카드
 Windows: 윈도우
-Identity Provider : 신원공급자
 ```
