@@ -76,6 +76,7 @@ directory: 디렉터리
 dispatch: 디스패치
 documentation: 설명서
 dotted expression: 점표현식
+Descriptors: 
 enclosing: 둘러싼
 encoding: 인코딩
 environment variable: 환경 변수
