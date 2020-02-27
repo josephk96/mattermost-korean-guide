@@ -48,6 +48,7 @@ collection: 컬렉션
 command: 명령
 computationally-intensive: 계산집약적
 concrete class: 구상 클래스
+connection: 연결상태
 construct: 구조물
 constructor: 생성자
 container: 컨테이너
