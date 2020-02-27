@@ -180,4 +180,5 @@ underlying resource: 하부 자원
 virtual subclass: 가상 서브 클래스
 wildcard: 와일드카드
 Windows: 윈도우
+Identity Provider : 신원공급자
 ```
