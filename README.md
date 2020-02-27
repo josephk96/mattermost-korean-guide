@@ -25,6 +25,7 @@ backslash: 역 슬래시
 body: 바디
 buffer: 버퍼
 buffered: 버퍼드
+bulk: 대량
 built-in: 내장
 byte-oriented datastream: 바이트지향 데이터스트림
 bytes: 바이트열
@@ -50,6 +51,7 @@ concrete class: 구상 클래스
 construct: 구조물
 constructor: 생성자
 container: 컨테이너
+content: 컨텐츠
 control flow: 제어 흐름
 cyclic garbage collector: 순환 가비지 수거기
 curly braces: 중괄호
