@@ -100,6 +100,7 @@ imaginary unit: 허수 단위
 implicit: 묵시적
 indent: 들여쓰기
 index: 인덱스
+index: 
 inheritance: 상속
 inline: 인라인
 instance: 인스턴스
