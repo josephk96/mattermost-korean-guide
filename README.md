@@ -152,6 +152,7 @@ parser: 파서
 Parsing: 
 phase: 시기
 positional argument: 위치 인자
+Push Notification: 푸시 알림
 procedure: 프로시저
 prompt: 프롬프트
 property: 프로퍼티
