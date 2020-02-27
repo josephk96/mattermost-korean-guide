@@ -158,6 +158,7 @@ reference cycle: 참조 순환
 retention: 보존
 resume: 재개
 reverse iteration: 역 이터레이션
+SAML Assertion: SAML 주장
 section: 섹션
 sequence: 시퀀스
 serializing: 직렬화
