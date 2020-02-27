@@ -153,6 +153,7 @@ raw string: 날 문자열
 redirection: 리디렉션
 reference counting: 참조 횟수 추적
 reference cycle: 참조 순환
+retention: 보존
 resume: 재개
 reverse iteration: 역 이터레이션
 section: 섹션
