@@ -47,6 +47,8 @@ codec: 코덱
 collation: 콜레이션
 collection: 컬렉션
 command: 명령
+compliance: 컴플라이언스
+compliance Report: 컴플라이언스 보고서
 computationally-intensive: 계산집약적
 concrete class: 구상 클래스
 connection: 연결상태
@@ -158,6 +160,7 @@ raw string: 날 문자열
 redirection: 리디렉션
 reference counting: 참조 횟수 추적
 reference cycle: 참조 순환
+Report: 보고서
 retention: 보존
 resume: 재개
 reverse iteration: 역 이터레이션
