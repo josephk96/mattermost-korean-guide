@@ -214,6 +214,7 @@ token: 토큰
 truth value: 논리값
 tutorial: 자습서
 trigger: 트리거
+team member: 팀 멤버
 underlying resource: 하부 자원
 virtual subclass: 가상 서브 클래스
 wildcard: 와일드카드
