@@ -187,6 +187,7 @@ sequence: 시퀀스
 serializing: 직렬화
 set: 집합
 session: 세션
+secret: 시크릿
 shallow copy: 얕은 사본
 shell: 셸
 shift: 시프트
