@@ -169,6 +169,7 @@ Report: 보고서
 retention: 보존
 resume: 재개
 reverse iteration: 역 이터레이션
+role: role
 SAML Assertion: SAML Assertion
 scheme: 스킴
 section: 섹션
