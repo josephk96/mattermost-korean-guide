@@ -146,6 +146,7 @@ module: 모듈
 multi-processor: 다중 프로세서
 multi-threaded: 다중스레드화
 member: 멤버
+membership: 멤버십
 Marketplace: 
 operating system: 운영 체제
 operation: 연산
