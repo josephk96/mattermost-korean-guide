@@ -191,6 +191,7 @@ stack: 스택
 step: 스텝
 stream: 스트림
 string: 문자열
+status: 상태
 subroutine: 서브루틴
 subscript notation: 서브 스크립트 표기법
 superclass: 슈퍼 클래스
