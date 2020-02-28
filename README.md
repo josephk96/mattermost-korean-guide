@@ -169,7 +169,7 @@ Report: 보고서
 retention: 보존
 resume: 재개
 reverse iteration: 역 이터레이션
-SAML Assertion: SAML 주장
+SAML Assertion: SAML Assertion
 section: 섹션
 sequence: 시퀀스
 serializing: 직렬화
@@ -195,7 +195,8 @@ switch (change): 변경
 symlink: 심볼릭 링크
 syntactic sugar: 편의 문법
 syntax error: 문법 에러
-third party: 제삼자
+tab: 탭
+third party: third party
 thread: 스레드
 token: 토큰
 truth value: 논리값
