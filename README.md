@@ -170,10 +170,12 @@ retention: 보존
 resume: 재개
 reverse iteration: 역 이터레이션
 SAML Assertion: SAML Assertion
+scheme: 스킴
 section: 섹션
 sequence: 시퀀스
 serializing: 직렬화
 set: 집합
+session: 세션
 shallow copy: 얕은 사본
 shell: 셸
 shift: 시프트
