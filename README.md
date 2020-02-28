@@ -80,6 +80,7 @@ Descriptors:
 enclosing: 둘러싼
 encoding: 인코딩
 environment variable: 환경 변수
+entry: 엔트리
 error: 에러
 escape: 이스케이프
 evaluate: 값을 구하다
