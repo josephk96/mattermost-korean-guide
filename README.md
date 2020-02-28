@@ -162,6 +162,8 @@ Push Notification: 푸시 알림
 procedure: 프로시저
 prompt: 프롬프트
 property: 프로퍼티
+private: 비공개
+public: 공개
 post: 메시지
 Preference: 사용자 설정
 Payload: 페이로드
