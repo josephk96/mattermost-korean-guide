@@ -158,6 +158,7 @@ prompt: 프롬프트
 property: 프로퍼티
 post: 메시지
 Preference: 사용자 설정
+Payload: 페이로드
 queue: 큐
 quotation mark: 따옴표
 raw string: 날 문자열
