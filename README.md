@@ -65,6 +65,7 @@ control flow: 제어 흐름
 cyclic garbage collector: 순환 가비지 수거기
 curly braces: 중괄호
 custom: 커스텀
+customization: 커스터마이징
 category: 카테고리
 data structure: 자료 구조
 decimal: 십진 소수 # decimal 모듈과 관련될 때
