@@ -181,7 +181,7 @@ resume: 재개
 reverse iteration: 역 이터레이션
 reset: 초기화
 revoke: 철회
-release: 
+release: 릴리즈
 role: role
 SAML Assertion: SAML Assertion
 scheme: 스킴
