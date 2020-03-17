@@ -124,6 +124,7 @@ interpreter: 인터프리터
 interrupt: 인터럽트
 introspection: 인트로스펙션
 Invalid: 유효하지 않은
+incoming webhook: 
 iteration: 이터레이션
 keyword argument: 키워드 인자
 lexicographical: 사전식
@@ -153,6 +154,7 @@ operating system: 운영 체제
 operation: 연산
 operator: 연산자
 optional: 선택적, 생략 가능한
+outgoing webhook: 나가는 웹훅
 parallelism: 병렬성
 parentheses: 괄호
 parse tree: 파스 트리
