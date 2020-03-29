@@ -185,6 +185,7 @@ reset: 초기화
 revoke: 철회
 release: 릴리즈
 role: role
+Replies: 
 SAML Assertion: SAML Assertion
 scheme: 스킴
 section: 섹션
